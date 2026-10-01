@@ -6,6 +6,9 @@ Opté por la configuración de **Red Interna** debido a que para este ejercicio 
 Captura de cuentas de usuario: Es importante tener una cuenta de usuario sin permisos de administrador para el uso cotidiano, eso incrementa la seguridad al no permitir hacer modificaciones que puedan acarrear un peligro a la maquina
  ![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/8f6de5f4d225d0049a8a915793c81c618fecc12d/Captura%206.jpeg)
 
+ Windonds update: Es importante tener el equipo siempre actualizado porque las actualizaciones suelen traer soluciones a vulnerabilidades del sistema, por lo tanto es inseguro no actualizarlo.
+ ![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/8f6de5f4d225d0049a8a915793c81c618fecc12d/Captura%205.jpeg)
+
 **Permisos de archivos:** Es indispensable asignar los permisos adecuados a la información sensible, garantizando que usuarios no autorizados no puedan acceder ni modificar los archivos, o que solo puedan hacerlo con la autorización explícita del propietario del recurso.
  ![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/08135517a60af4828c79ab6204df30714d3738b0/Captura%202.jpeg)
 
