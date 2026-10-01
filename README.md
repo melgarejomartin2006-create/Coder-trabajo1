@@ -4,3 +4,4 @@ Opté por la configuración de **Red Interna** debido a que para este ejercicio 
 ![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/56afc883d431099e35bddfe93dfc57d17c9934d1/Captura%201.jpeg)
 
 **Permisos de archivos:** Es indispensable asignar los permisos adecuados a la información sensible, garantizando que usuarios no autorizados no puedan acceder ni modificar los archivos, o que solo puedan hacerlo con la autorización explícita del propietario del recurso.
+ ![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/08135517a60af4828c79ab6204df30714d3738b0/Captura%202.jpeg)
