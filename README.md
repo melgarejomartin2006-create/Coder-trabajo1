@@ -1,7 +1,7 @@
 # Coder-trabajo
 
 Opté por la configuración de **Red Interna** debido a que para este ejercicio no resultaba imprescindible conectar la máquina virtual a Internet. Si bien el modo **NAT** ofrece acceso a la red externa sin permitir tráfico entrante no solicitado, la conexión a la red resultaba innecesaria ya que el objetivo se limitaba a configurar el sistema en sí. Del mismo modo, descarté la opción de **Adaptador Puente** porque, además de brindar acceso a la red, expone la máquina virtual como un dispositivo visible dentro de la red local, comprometiendo el aislamiento del laboratorio sin aportar ninguna ventaja técnica. La modalidad de Red Interna resguarda el equipo anfitrión (*host*) al mantenerlo completamente separado de la máquina virtual, lo que habilita un entorno de pruebas seguro donde cualquier falla no afectará al sistema físico.
-![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/56afc883d431099e35bddfe93dfc57d17c9934d1/Captura%201.jpeg)
+![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/78e0dc950028f95be89412ad66f4597c5a90d084/Captura.png)
 
 Captura de cuentas de usuario: Es importante tener una cuenta de usuario sin permisos de administrador para el uso cotidiano, eso incrementa la seguridad al no permitir hacer modificaciones que puedan acarrear un peligro a la maquina
  ![image alt](https://github.com/melgarejomartin2006-create/Coder-trabajo1/blob/8f6de5f4d225d0049a8a915793c81c618fecc12d/Captura%206.jpeg)
